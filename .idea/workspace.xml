@@ -10,7 +10,150 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a42cc76-81f7-4b57-9029-6e59d986406d" name="Default" comment="" />
+    <list default="true" id="5a42cc76-81f7-4b57-9029-6e59d986406d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_agil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_heathcliff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_klein.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_leafa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_lisbeth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_sachi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_silica.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_sinon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_yuuki.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/drawable.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/gigamole/infinitecycleviewpager/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/gigamole/infinitecycleviewpager/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pawegio/kandroid/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pawegio/kandroid/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/trello/rxlifecycle/components/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/trello/rxlifecycle/components/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fr/tvbarthel/lib/blurdialogfragment/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fr/tvbarthel/lib/blurdialogfragment/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/8KUafN5yQyTPYN2C65LG737ZSpc=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/8KUafN5yQyTPYN2C65LG737ZSpc=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/realm_c907b515f6bbfdb87fcc51196671caf673580fd2.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/realm_c907b515f6bbfdb87fcc51196671caf673580fd2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_asuna.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_asuna.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_kirito.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_kirito.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_yui.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/main_yui.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/android/support/design/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/gigamole/infinitecycleviewpager/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/gigamole/infinitecycleviewpager/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/pawegio/kandroid/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/pawegio/kandroid/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/trello/rxlifecycle/components/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/trello/rxlifecycle/components/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/view/main/fragment/module/MainModule$module$1$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/view/main/fragment/module/MainModule$module$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/view/main/fragment/module/MainModule$module$1$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/view/main/fragment/module/MainModule$module$1$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/view/main/fragment/module/MainModule$module$1$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/view/main/fragment/module/MainModule$module$1$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/view/main/fragment/module/MainModule$module$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/com/utaite/sao/view/main/fragment/module/MainModule$module$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/fr/tvbarthel/lib/blurdialogfragment/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/fr/tvbarthel/lib/blurdialogfragment/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/uk/co/chrisjenx/calligraphy/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/RealmTransformer/debug/folders/1/1/realm/uk/co/chrisjenx/calligraphy/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/class-fq-name-to-source.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/class-fq-name-to-source.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/class-fq-name-to-source.tab.keystream" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/class-fq-name-to-source.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/class-fq-name-to-source.tab.values.at" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/class-fq-name-to-source.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/class-fq-name-to-source.tab_i" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/class-fq-name-to-source.tab_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/internal-name-to-source.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/internal-name-to-source.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/internal-name-to-source.tab.keystream" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/internal-name-to-source.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/internal-name-to-source.tab.values.at" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/internal-name-to-source.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/internal-name-to-source.tab_i" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/internal-name-to-source.tab_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/proto.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/proto.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/proto.tab.keystream" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/proto.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/proto.tab.values.at" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/proto.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/proto.tab_i" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/proto.tab_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/source-to-classes.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/source-to-classes.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/source-to-classes.tab.keystream" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/source-to-classes.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/source-to-classes.tab.values.at" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/source-to-classes.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/source-to-classes.tab_i" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/source-to-classes.tab_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab.keystream" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab.values" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab.values" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab.values.at" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab.values.s" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab.values.s" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab_i" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/sources-to-classfiles.tab_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/subtypes.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/subtypes.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/subtypes.tab.values.at" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/subtypes.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/supertypes.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/supertypes.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/supertypes.tab.values.at" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/increCache.app_debug/kotlin/supertypes.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/file-to-id.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/file-to-id.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/file-to-id.tab.values.at" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/file-to-id.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab.keystream" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab.keystream.len" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab.keystream.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab.len" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab.values.at" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab_i" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/id-to-file.tab_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.keystream" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.keystream.len" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.keystream.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.len" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.values" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.values" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.values.at" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.values.s" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab.values.s" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab_i" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/lookups.tab_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/last-build.bin" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/last-build.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/sync/kotlin-files-in-java-timestamps.bin" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/sync/kotlin-files-in-java-timestamps.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$2.class" afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$3.class" afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$4.class" afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1.class" afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/utaite/sao/view/main/fragment/module/MainModule$module$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/main_asuna.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/main_asuna.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/main_kirito.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/main_kirito.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/main_yui.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/main_yui.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.values" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.values" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.values.s" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.values.s" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/gigamole/infinitecycleviewpager/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/gigamole/infinitecycleviewpager/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/pawegio/kandroid/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/pawegio/kandroid/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/trello/rxlifecycle/components/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/trello/rxlifecycle/components/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/utaite/sao/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/utaite/sao/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/fr/tvbarthel/lib/blurdialogfragment/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/fr/tvbarthel/lib/blurdialogfragment/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/uk/co/chrisjenx/calligraphy/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/uk/co/chrisjenx/calligraphy/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_main_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_main_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/counters.tab" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches/lookups/counters.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/tmp/kapt/debug/wrappers/annotations.debug.txt" afterPath="$PROJECT_DIR$/app/build/tmp/kapt/debug/wrappers/annotations.debug.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/adapter/MainAdapter.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/adapter/MainAdapter.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/module/MainModule.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/module/MainModule.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main_item.xml" />
+    </list>
     <ignored path="SAO.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,25 +183,12 @@
     <favorites_list name="SAO" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="fragment_main_section.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_section.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainAdapter.kt" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MainAdapter.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/adapter/MainAdapter.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+            <state relative-caret-position="1235">
+              <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
               <folding>
                 <element signature="e#51#821#0" expanded="true" />
               </folding>
@@ -66,69 +196,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <file leaf-file-name="MainModule.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/module/MainModule.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="589">
+              <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainHelper.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/adapter/MainHelper.kt">
+      <file leaf-file-name="fragment_main_item.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_item.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-              <folding>
-                <element signature="e#51#384#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="342">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MainFragment.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/view/MainFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#640#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="475">
+              <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/app/view/App.kt">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-              <folding>
-                <element signature="e#38#371#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainInfoAdapter.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/adapter/MainInfoAdapter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="20" column="94" selection-start-line="20" selection-start-column="94" selection-end-line="20" selection-end-column="94" />
-              <folding>
-                <element signature="e#51#389#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DB.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/util/DB.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="153">
+              <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -142,6 +247,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2195,21 +2303,21 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/vo/MainItem.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/module/MainModule.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/adapter/MainInfoAdapter.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_main_item.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_main_section.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/app/view/App.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/util/DB.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/view/MainFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_main_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/module/MainModule.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/adapter/MainAdapter.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="496" />
-    <option name="y" value="107" />
+    <option name="x" value="401" />
+    <option name="y" value="67" />
     <option name="width" value="1437" />
     <option name="height" value="852" />
   </component>
@@ -2220,7 +2328,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -2239,9 +2347,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2259,289 +2366,12 @@
               <option name="myItemId" value="SAO" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sao" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sao" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sao" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sao" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sao" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sao" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sao" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SAO" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2900,6 +2730,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5a42cc76-81f7-4b57-9029-6e59d986406d" name="Default" comment="" />
@@ -2911,38 +2744,38 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="496" y="107" width="1437" height="852" extended-state="0" />
-    <editor active="true" />
+    <frame x="401" y="67" width="1437" height="852" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33551198" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24763979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24763979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997396" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997396" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33551198" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -2994,27 +2827,122 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/adapter/MainAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+          <folding>
+            <element signature="e#51#821#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/module/MainModule.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/view/MainFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/adapter/MainAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="75" column="78" selection-start-line="75" selection-start-column="78" selection-end-line="75" selection-end-column="78" />
+          <folding>
+            <element signature="e#51#821#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/module/MainModule.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_info.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_info_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro" />
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3030,7 +2958,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3038,18 +2965,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/util/custom/MyToast.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/util/custom/MyToast.kt" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -3059,15 +2978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/util/BaseFragment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3075,9 +2985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="e#53#233#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3085,9 +2992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding>
-            <element signature="e#48#486#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3095,9 +2999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding>
-            <element signature="e#50#388#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3105,7 +3006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3113,7 +3013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3121,47 +3020,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_info.xml">
       <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/util/BaseActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#29#189#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/font/NanumGothic.ttf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3169,39 +3044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/app/module/AppModule.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding>
-            <element signature="e#40#322#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_info_view.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3209,17 +3051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
           <caret line="24" column="76" selection-start-line="24" selection-start-column="76" selection-end-line="24" selection-end-column="76" />
-          <folding>
-            <element signature="e#48#609#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3235,36 +3066,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/module/MainModule.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-manifest">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_item.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        <state relative-caret-position="190">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -3273,26 +3084,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="47880">
           <caret line="2520" column="32" selection-start-line="2520" selection-start-column="32" selection-end-line="2520" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_section.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3300,27 +3108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="581">
           <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-          <folding>
-            <element signature="e#51#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/util/DB.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/view/MainFragment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="e#48#640#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3328,29 +3115,116 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="20" column="94" selection-start-line="20" selection-start-column="94" selection-end-line="20" selection-end-column="94" />
-          <folding>
-            <element signature="e#51#389#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_info.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_info_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/util/BaseActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/util/BaseFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/util/DB.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/app/module/AppModule.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/app/view/App.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
+        <state relative-caret-position="684">
           <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-          <folding>
-            <element signature="e#38#371#0" expanded="true" />
-          </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/module/MainModule.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/view/MainFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utaite/sao/view/main/fragment/adapter/MainAdapter.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+        <state relative-caret-position="1235">
+          <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
           <folding>
             <element signature="e#51#821#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>

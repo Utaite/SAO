@@ -124,9 +124,9 @@ class MainAdapter(private val act: MainActivity,
 
     private fun Int.getOppositionColor(): Int =
             Color.rgb(
-                    255 - Color.red(this),
-                    255 - Color.green(this),
-                    255 - Color.blue(this)
+                    255 - Color.red(this@getOppositionColor),
+                    255 - Color.green(this@getOppositionColor),
+                    255 - Color.blue(this@getOppositionColor)
             )
 
     override fun getItemViewType(position: Int): Int =
