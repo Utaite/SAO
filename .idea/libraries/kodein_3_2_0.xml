@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="kodein-3.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.salomonbrys.kodein/kodein/3.2.0/ee28108d36ac14ecd036db6ac541e198d31b93b5/kodein-3.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.salomonbrys.kodein/kodein/3.2.0/f6a970da6104bc2e5d86fa661cdc8424d3bd2e2a/kodein-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

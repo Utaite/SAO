@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="kandroid-0.8.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/06bfbbd755cf4d0c60a023e2c317bb2616845201/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/06bfbbd755cf4d0c60a023e2c317bb2616845201/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pawegio.kandroid/kandroid/0.8.3/741735ebf7fd4ea67ebc6171d66e1575122b935d/kandroid-0.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

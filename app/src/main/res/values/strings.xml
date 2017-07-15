@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">SAO 캐릭터 소개</string>
+
+    <string name="onBackPressed">\'뒤로\' 버튼을 한번 더 누르시면 종료됩니다.</string>
+
+    <!-- translatable false -->
+
+    <string name="font_nanum_gothic">font/NanumGothic.ttf</string>
+
+    <string name="main_bot_main" translatable="false">MainFragment</string>
+
+</resources>

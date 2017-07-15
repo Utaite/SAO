@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Programming\\SAO\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Programming\\SAO\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Programming\\kurokumo-streaming\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
