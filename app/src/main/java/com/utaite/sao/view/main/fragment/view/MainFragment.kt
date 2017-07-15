@@ -8,6 +8,7 @@ import com.github.salomonbrys.kodein.LazyKodeinAware
 import com.github.salomonbrys.kodein.instance
 import com.utaite.sao.R
 import com.utaite.sao.util.BaseFragment
+import com.utaite.sao.util.DB
 import com.utaite.sao.view.main.activity.view.MainActivity
 import com.utaite.sao.view.main.fragment.adapter.MainHelper
 import com.utaite.sao.view.main.fragment.module.MainModule
@@ -36,9 +37,9 @@ class MainFragment : BaseFragment(), LazyKodeinAware {
         val listGGO: MutableList<MainItem> by instance("GGO")
 
         helper.run {
-            addSection("Sword Art Online", listSAO)
-            addSection("ALfheim Online", listALO)
-            addSection("Gun Gale Online", listGGO)
+            addSection(DB.SECTION_SAO, listSAO)
+            addSection(DB.SECTION_ALO, listALO)
+            addSection(DB.SECTION_GGO, listGGO)
             notifyDataSetChanged()
         }
     }

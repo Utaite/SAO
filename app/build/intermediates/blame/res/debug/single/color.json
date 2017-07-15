@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
         "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
         "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "D:\\Programming\\SAO\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",

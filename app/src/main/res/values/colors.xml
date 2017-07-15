@@ -5,4 +5,13 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
+    <color name="main_sao_bg_layout">#26A69A</color>
+    <color name="main_sao_bg_txt">#009688</color>
+
+    <color name="main_alo_bg_layout">#C4B5DB</color>
+    <color name="main_alo_bg_txt">#A091B7</color>
+
+    <color name="main_ggo_bg_layout">#8E89FF</color>
+    <color name="main_ggo_bg_txt">#6A65FD</color>
+
 </resources>

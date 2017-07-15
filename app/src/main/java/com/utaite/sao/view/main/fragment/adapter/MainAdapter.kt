@@ -9,6 +9,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.utaite.sao.R
+import com.utaite.sao.util.DB
 import com.utaite.sao.view.main.activity.view.MainActivity
 import com.utaite.sao.view.main.fragment.inter.SectionChangeListener
 import com.utaite.sao.view.main.fragment.view.MainInfoFragment
@@ -73,23 +74,40 @@ class MainAdapter(private val act: MainActivity,
             VIEW_TYPE_ITEM -> {
                 (vo[position] as MainItem).let {
                     holder.itemView.main_item_img.setImageResource(it.mainImg)
-                    holder.itemView.main_item_txt.text = it.nickNameKR + "\n(${it.nickNameJP})"
-                    it.mainImg.getBitmap().let { bitmap ->
-                        holder.itemView.main_item_txt.setTextColor(bitmap.getDominantColor())
-                        holder.itemView.main_item_txt.setBackgroundColor(bitmap.getDominantColor())
+
+                    holder.itemView.main_item_txt.run {
+                        it.mainImg.getBitmap().getDominantColor().let { dominant ->
+                            setTextColor(dominant)
+                            setBackgroundColor(dominant.getOppositionColor())
+                        }
+                        text = it.nickNameKR + "\n(${it.nickNameJP})"
+                        background.alpha = act.app.MAIN_TXT_BG_ALPHA
                     }
                 }
             }
 
             VIEW_TYPE_SECTION -> {
                 (vo[position] as MainSection).let {
-                    holder.itemView.main_section_txt.text = it.section
                     holder.itemView.main_section_btn.isChecked = it.isExpanded
+
+                    holder.itemView.main_section_txt.text = it.section
+                    act.app.run {
+                        when (holder.itemView.main_section_txt.text) {
+                            DB.SECTION_SAO -> Pair(getColor(act, R.color.main_sao_bg_txt), getColor(act, R.color.main_sao_bg_layout))
+                            DB.SECTION_ALO -> Pair(getColor(act, R.color.main_alo_bg_txt), getColor(act, R.color.main_alo_bg_layout))
+                            DB.SECTION_GGO -> Pair(getColor(act, R.color.main_ggo_bg_txt), getColor(act, R.color.main_ggo_bg_layout))
+                            else -> Pair(getColor(act, android.R.color.transparent), getColor(act, android.R.color.transparent))
+                        }.let { backgroundColors ->
+                            holder.itemView.main_section_txt.setBackgroundColor(backgroundColors.first)
+                            holder.itemView.main_section_layout.setBackgroundColor(backgroundColors.second)
+                        }
+                    }
                 }
             }
         }
     }
 
+    @Suppress("DEPRECATION")
     private fun Int.getBitmap(): Bitmap =
             BitmapFactory.decodeResource(act.resources, this@getBitmap,
                     BitmapFactory.Options().apply {

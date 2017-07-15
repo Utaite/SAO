@@ -1,6 +1,9 @@
 package com.utaite.sao.view.app.view
 
 import android.app.Application
+import android.content.Context
+import android.os.Build
+import android.support.v4.content.ContextCompat
 import com.github.salomonbrys.kodein.LazyKodeinAware
 import com.github.salomonbrys.kodein.instance
 import com.utaite.sao.view.app.module.AppModule
@@ -26,5 +29,15 @@ class App : Application(), LazyKodeinAware {
     var CURRENT_TIME = 0L
 
     val GRID_SPAN_COUNT = 3
+
+    val MAIN_TXT_BG_ALPHA = 170
+
+
+    @Suppress("DEPRECATION")
+    fun getColor(con: Context, id: Int): Int =
+            when {
+                Build.VERSION.SDK_INT >= 23 -> ContextCompat.getColor(con, id)
+                else -> con.resources.getColor(id)
+            }
 
 }

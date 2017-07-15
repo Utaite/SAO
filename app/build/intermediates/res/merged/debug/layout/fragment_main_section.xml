@@ -10,7 +10,6 @@
         android:id="@+id/main_section_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#26A69A"
         android:orientation="horizontal">
 
         <TextView
@@ -18,7 +17,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="0.12"
-            android:background="#009688"
             android:gravity="center|left"
             android:paddingLeft="15dp"
             android:textColor="#fff"
