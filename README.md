@@ -8,7 +8,7 @@ SAO [개인프로젝트]
 
 - 기능 : SAO의 캐릭터 소개를 카드형 UI로 볼 수 있다.
 
-- 다운로드 : https://github.com/Utaite/SAO/blob/master/readme/apk/com.utaite.sao.apk
+- 다운로드 : https://github.com/Utaite/SAO/raw/master/readme/apk/com.utaite.sao.apk
 
 <div>
 <img width="140" height="250" src="/readme/image/sao-1.png"/>
