@@ -18,8 +18,6 @@ class MainInfoFragment : SupportBlurDialogFragment(), LazyKodeinAware {
 
     override val kodein = MainInfoModule(this@MainInfoFragment).module
 
-    private val TAG = javaClass.simpleName
-
     private val act: MainActivity by instance()
 
     override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?, savedInstanceState: Bundle?): View? =

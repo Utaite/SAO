@@ -4,8 +4,25 @@
 
     <string name="onBackPressed">\'뒤로\' 버튼을 한번 더 누르시면 종료됩니다.</string>
 
-    <string name="main_info_view_title0">프로필 이미지</string>
-    <string name="main_info_view_title1">기본 정보</string>
+    <string name="year">년</string>
+    <string name="month">월</string>
+    <string name="day">일</string>
+
+    <string name="main_view0_title">프로필 이미지</string>
+    <string name="main_view1_title">프로필 정보</string>
+
+    <string name="main_view1_real_name">본명:&#160;</string>
+    <string name="main_view1_gender">성별:&#160;</string>
+    <string name="main_view1_birth">생일:&#160;</string>
+    <string name="main_view1_keyword">키워드:&#160;</string>
+    <string name="main_view1_more">자세히 보기</string>
+    <string name="main_view1_img">이미지 더보기</string>
+
+    <string name="main_view1_undefined">알 수 없음</string>
+
+    <string name="main_view1_gender_male">남성</string>
+    <string name="main_view1_gender_female">여성</string>
+
 
     <!-- translatable false -->
 

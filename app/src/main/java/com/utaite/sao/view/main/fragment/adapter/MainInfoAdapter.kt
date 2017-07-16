@@ -1,11 +1,14 @@
 package com.utaite.sao.view.main.fragment.adapter
 
+import android.content.Intent
+import android.net.Uri
 import android.support.v4.view.PagerAdapter
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import com.utaite.sao.R
+import com.utaite.sao.util.DB
 import com.utaite.sao.view.app.view.App
 import com.utaite.sao.view.main.activity.view.MainActivity
 import com.utaite.sao.view.main.fragment.vo.MainItem
@@ -38,7 +41,7 @@ class MainInfoAdapter(private val act: MainActivity,
         when (resource) {
             VIEW_TYPE_VIEW0 -> {
                 this.main_view0_frame.setOnClickListener { }
-                this.main_view0_txt_top.setTopElement(R.string.main_info_view_title0)
+                this.main_view0_txt_top.setTopElement(R.string.main_view0_title)
                 this.main_view0_txt_bot.setBottomElement()
 
                 this.main_view0_img.setImageResource(vo.mainImg)
@@ -46,8 +49,16 @@ class MainInfoAdapter(private val act: MainActivity,
             }
             VIEW_TYPE_VIEW1 -> {
                 this.main_view1_frame.setOnClickListener { }
-                this.main_view1_txt_top.setTopElement(R.string.main_info_view_title1)
+                this.main_view1_txt_top.setTopElement(R.string.main_view1_title)
                 this.main_view1_txt_bot.setBottomElement()
+
+                this.main_view1_real_name.text = getRealName(vo.realNameKR, vo.realNameJP)
+                this.main_view1_gender.text = getGender(vo.gender)
+                this.main_view1_birth.text = getBirth(vo.birth)
+                this.main_view1_keyword.text = getKeyword(vo.keyword)
+
+                this.main_view1_more.setMore(vo.moreUri)
+                this.main_view1_img.setImg(vo.imgUri)
             }
         }
     }
@@ -74,6 +85,53 @@ class MainInfoAdapter(private val act: MainActivity,
                 }
                 background.alpha = act.app.MAIN_TXT_BG_ALPHA
                 text = vo.nickNameKR + "\n(${vo.nickNameJP})"
+            }
+        }
+    }
+
+    private fun getRealName(realNameKR: String, realNameJP: String): String =
+            when {
+                realNameKR.isEmpty() && realNameJP.isEmpty() -> act.get(R.string.main_view1_undefined)
+                realNameKR.isEmpty() -> realNameJP
+                realNameJP.isEmpty() -> realNameKR
+                else -> "${vo.realNameKR}\n(${vo.realNameJP})"
+            }
+
+    private fun getGender(gender: Int): String =
+            when (gender) {
+                DB.GENDER_UNDEFINED -> act.get(R.string.main_view1_undefined)
+                DB.GENDER_MALE -> act.get(R.string.main_view1_gender_male)
+                DB.GENDER_FEMALE -> act.get(R.string.main_view1_gender_female)
+                else -> ""
+            }
+
+    private fun getBirth(birth: String): String =
+            when {
+                birth.isEmpty() -> act.get(R.string.main_view1_undefined)
+                else -> "${birth.substring(0, 4)}${act.get(R.string.year)} ${birth.substring(4, 6)}${act.get(R.string.month)} ${birth.substring(6, 8)}${act.get(R.string.day)}"
+            }
+
+    private fun getKeyword(keyword: List<String>): String =
+            keyword.toString().replace("[", "").replace("]", "")
+
+    private fun TextView.setMore(moreUri: String) {
+        when {
+            moreUri.isEmpty() -> this@setMore.visibility = View.GONE
+            else -> this@setMore.setOnClickListener {
+                Intent(Intent.ACTION_VIEW, Uri.parse("https://namu.wiki/w/$moreUri")).let { intent ->
+                    act.startActivity(intent)
+                }
+            }
+        }
+    }
+
+    private fun TextView.setImg(imgUri: String) {
+        when {
+            imgUri.isEmpty() -> this@setImg.visibility = View.GONE
+            else -> this@setImg.setOnClickListener {
+                Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.co.kr/search?q=$imgUri")).let { intent ->
+                    act.startActivity(intent)
+                }
             }
         }
     }

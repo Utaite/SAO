@@ -30,5 +30,14 @@ data class MainItem(
         val gender: Int = 0,
 
         // 생년월일
-        val birth: String = ""
+        val birth: String = "",
+
+        // 키워드
+        val keyword: List<String> = listOf(),
+
+        // 자세히 보기 Uri 링크
+        val moreUri: String = "",
+
+        // 이미지 더보기 Uri 링크
+        val imgUri: String = ""
 )
