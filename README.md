@@ -6,7 +6,7 @@ SAO [개인프로젝트]
 
 - 사용 기술 : Kotlin, Kodein, InfiniteCycleViewPager, SectionedExpandableGridRecyclerView
 
-- 기능 : 캐릭터 소개를 카드형 UI로 볼 수 있다.
+- 기능 : SAO의 캐릭터 소개를 카드형 UI로 볼 수 있다.
 
 - 다운로드 : https://github.com/Utaite/SAO/blob/master/readme/apk/com.utaite.sao.apk
 
