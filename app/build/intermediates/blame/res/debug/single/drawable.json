@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\Programming\\SAO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\f92f73b38657b6c2025434654eee04467451e66c\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
         "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Programming\\SAO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\f92f73b38657b6c2025434654eee04467451e66c\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "D:\\Programming\\SAO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
@@ -44,12 +44,12 @@
         "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "D:\\Programming\\SAO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_sinon.png",
         "source": "D:\\Programming\\SAO\\app\\src\\main\\res\\drawable\\main_sinon.png"
+    },
+    {
+        "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -136,12 +136,12 @@
         "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\Programming\\SAO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\drawable\\notification_bg.xml"
-    },
-    {
         "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Programming\\SAO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",

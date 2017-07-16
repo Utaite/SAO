@@ -32,16 +32,16 @@
         "source": "D:\\Programming\\kurokumo-streaming\\app\\src\\main\\res\\layout\\fragment_main_section.xml"
     },
     {
-        "merged": "D:\\Programming\\SAO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "D:\\Programming\\SAO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Kurokumo\\.android\\build-cache\\0c6a36dcd5964f29c2278bfdd68a5b1167a9c468\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "D:\\Programming\\kurokumo-streaming\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
