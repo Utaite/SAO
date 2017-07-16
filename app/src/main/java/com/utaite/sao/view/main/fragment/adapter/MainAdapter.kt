@@ -10,8 +10,9 @@ import android.view.View
 import android.view.ViewGroup
 import com.utaite.sao.R
 import com.utaite.sao.util.DB
+import com.utaite.sao.view.app.view.App
 import com.utaite.sao.view.main.activity.view.MainActivity
-import com.utaite.sao.view.main.fragment.inter.SectionChangeListener
+import com.utaite.sao.view.main.fragment.listener.SectionChangeListener
 import com.utaite.sao.view.main.fragment.view.MainInfoFragment
 import com.utaite.sao.view.main.fragment.vo.MainItem
 import com.utaite.sao.view.main.fragment.vo.MainSection
@@ -69,13 +70,15 @@ class MainAdapter(private val act: MainActivity,
                 (vo[position] as MainItem).let {
                     holder.itemView.main_item_img.setImageResource(it.mainImg)
 
-                    holder.itemView.main_item_txt.run {
-                        it.mainImg.getBitmap().getDominantColor().let { dominant ->
-                            setTextColor(dominant)
-                            setBackgroundColor(dominant.getOppositionColor())
+                    App.run {
+                        holder.itemView.main_item_txt.run {
+                            it.mainImg.getBitmap(act).getDominantColor().let { dominant ->
+                                setTextColor(dominant)
+                                setBackgroundColor(dominant.getOppositionColor())
+                            }
+                            text = it.nickNameKR + "\n(${it.nickNameJP})"
+                            background.alpha = act.app.MAIN_TXT_BG_ALPHA
                         }
-                        text = it.nickNameKR + "\n(${it.nickNameJP})"
-                        background.alpha = act.app.MAIN_TXT_BG_ALPHA
                     }
                 }
             }
@@ -85,7 +88,7 @@ class MainAdapter(private val act: MainActivity,
                     holder.itemView.main_section_btn.isChecked = it.isExpanded
 
                     holder.itemView.main_section_txt.text = it.section
-                    act.app.run {
+                    App.run {
                         when (holder.itemView.main_section_txt.text) {
                             DB.SECTION_SAO -> Pair(getColor(act, R.color.main_sao_bg_txt), getColor(act, R.color.main_sao_bg_layout))
                             DB.SECTION_ALO -> Pair(getColor(act, R.color.main_alo_bg_txt), getColor(act, R.color.main_alo_bg_layout))
@@ -100,28 +103,6 @@ class MainAdapter(private val act: MainActivity,
             }
         }
     }
-
-    @Suppress("DEPRECATION")
-    private fun Int.getBitmap(): Bitmap =
-            BitmapFactory.decodeResource(act.resources, this@getBitmap,
-                    BitmapFactory.Options().apply {
-                        inJustDecodeBounds = false
-                        inPurgeable = true
-                    })
-
-    private fun Bitmap.getDominantColor(): Int =
-            Bitmap.createScaledBitmap(this, 1, 1, true).let { bitmap ->
-                val color = bitmap.getPixel(0, 0)
-                bitmap.recycle()
-                return color
-            }
-
-    private fun Int.getOppositionColor(): Int =
-            Color.rgb(
-                    255 - Color.red(this@getOppositionColor),
-                    255 - Color.green(this@getOppositionColor),
-                    255 - Color.blue(this@getOppositionColor)
-            )
 
     override fun getItemViewType(position: Int): Int =
             when (isSection(position)) {

@@ -4,10 +4,13 @@ import android.support.v4.view.PagerAdapter
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.TextView
 import com.utaite.sao.R
+import com.utaite.sao.view.app.view.App
 import com.utaite.sao.view.main.activity.view.MainActivity
 import com.utaite.sao.view.main.fragment.vo.MainItem
 import kotlinx.android.synthetic.main.fragment_main_info_view0.view.*
+import kotlinx.android.synthetic.main.fragment_main_info_view1.view.*
 
 
 class MainInfoAdapter(private val act: MainActivity,
@@ -19,8 +22,7 @@ class MainInfoAdapter(private val act: MainActivity,
     override fun instantiateItem(container: ViewGroup, position: Int): Any =
             getResource(position)?.let { resource ->
                 LayoutInflater.from(act).inflate(resource, container, false).also {
-                    it.main_view_frame.setOnClickListener { }
-                    it.binding(resource)
+                    it binding resource
                     container.addView(it)
                 }
             } ?: Unit
@@ -32,13 +34,46 @@ class MainInfoAdapter(private val act: MainActivity,
                 else -> null
             }
 
-    private fun View.binding(resource: Int) {
+    infix private fun View.binding(resource: Int) {
         when (resource) {
             VIEW_TYPE_VIEW0 -> {
-                this.main_view_txt.text = vo.nickNameKR + "\n(${vo.nickNameJP})"
+                this.main_view0_frame.setOnClickListener { }
+                this.main_view0_txt_top.setTopElement(R.string.main_info_view_title0)
+                this.main_view0_txt_bot.setBottomElement()
+
+                this.main_view0_img.setImageResource(vo.mainImg)
+
             }
             VIEW_TYPE_VIEW1 -> {
-                this.main_view_txt.text = vo.nickNameKR + "\n(${vo.nickNameKR})"
+                this.main_view1_frame.setOnClickListener { }
+                this.main_view1_txt_top.setTopElement(R.string.main_info_view_title1)
+                this.main_view1_txt_bot.setBottomElement()
+            }
+        }
+    }
+
+    private fun TextView.setTopElement(resId: Int) {
+        App.run {
+            this.run {
+                vo.mainImg.getBitmap(act).getDominantColor().let { dominant ->
+                    setTextColor(dominant)
+                    setBackgroundColor(dominant.getOppositionColor())
+                }
+                background.alpha = act.app.MAIN_TXT_BG_ALPHA
+                text = act.get(resId)
+            }
+        }
+    }
+
+    private fun TextView.setBottomElement() {
+        App.run {
+            this.run {
+                vo.mainImg.getBitmap(act).getDominantColor().let { dominant ->
+                    setTextColor(dominant)
+                    setBackgroundColor(dominant.getOppositionColor())
+                }
+                background.alpha = act.app.MAIN_TXT_BG_ALPHA
+                text = vo.nickNameKR + "\n(${vo.nickNameJP})"
             }
         }
     }

@@ -4,6 +4,9 @@
 
     <string name="onBackPressed">\'뒤로\' 버튼을 한번 더 누르시면 종료됩니다.</string>
 
+    <string name="main_info_view_title0">프로필 이미지</string>
+    <string name="main_info_view_title1">기본 정보</string>
+
     <!-- translatable false -->
 
     <string name="font_nanum_gothic">font/NanumGothic.ttf</string>

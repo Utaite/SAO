@@ -1,4 +1,4 @@
-package com.utaite.sao.view.main.fragment.inter
+package com.utaite.sao.view.main.fragment.listener
 
 import com.utaite.sao.view.main.fragment.vo.MainSection
 

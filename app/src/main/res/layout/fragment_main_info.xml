@@ -9,9 +9,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:icvp_interpolator="@android:anim/accelerate_decelerate_interpolator"
-        app:icvp_max_page_scale="0.6"
+        app:icvp_max_page_scale="0.7"
         app:icvp_medium_scaled="false"
-        app:icvp_min_page_scale="0.4"
+        app:icvp_min_page_scale="0.5"
         app:icvp_min_page_scale_offset="5dp"
         app:icvp_scroll_duration="250" />
 

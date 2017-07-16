@@ -3,7 +3,7 @@ package com.utaite.sao.view.main.fragment.adapter
 import android.support.v7.widget.RecyclerView
 import android.support.v7.widget.GridLayoutManager
 import com.utaite.sao.view.main.activity.view.MainActivity
-import com.utaite.sao.view.main.fragment.inter.SectionChangeListener
+import com.utaite.sao.view.main.fragment.listener.SectionChangeListener
 import com.utaite.sao.view.main.fragment.vo.MainItem
 import com.utaite.sao.view.main.fragment.vo.MainSection
 

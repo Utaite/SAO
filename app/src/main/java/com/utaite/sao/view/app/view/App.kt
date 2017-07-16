@@ -2,6 +2,9 @@ package com.utaite.sao.view.app.view
 
 import android.app.Application
 import android.content.Context
+import android.graphics.Bitmap
+import android.graphics.BitmapFactory
+import android.graphics.Color
 import android.os.Build
 import android.support.v4.content.ContextCompat
 import com.github.salomonbrys.kodein.LazyKodeinAware
@@ -35,11 +38,37 @@ class App : Application(), LazyKodeinAware {
     val INFO_VIEW_ITEM_COUNT = 2
 
 
-    @Suppress("DEPRECATION")
-    fun getColor(con: Context, id: Int): Int =
-            when {
-                Build.VERSION.SDK_INT >= 23 -> ContextCompat.getColor(con, id)
-                else -> con.resources.getColor(id)
-            }
+    companion object {
+
+        @Suppress("DEPRECATION")
+        fun Int.getBitmap(con: Context): Bitmap =
+                BitmapFactory.decodeResource(con.resources, this@getBitmap,
+                        BitmapFactory.Options().apply {
+                            inJustDecodeBounds = false
+                            inPurgeable = true
+                        })
+
+        fun Bitmap.getDominantColor(): Int =
+                Bitmap.createScaledBitmap(this, 1, 1, true).let { bitmap ->
+                    val color = bitmap.getPixel(0, 0)
+                    bitmap.recycle()
+                    return color
+                }
+
+        fun Int.getOppositionColor(): Int =
+                Color.rgb(
+                        255 - Color.red(this@getOppositionColor),
+                        255 - Color.green(this@getOppositionColor),
+                        255 - Color.blue(this@getOppositionColor)
+                )
+
+        @Suppress("DEPRECATION")
+        fun getColor(con: Context, id: Int): Int =
+                when {
+                    Build.VERSION.SDK_INT >= 23 -> ContextCompat.getColor(con, id)
+                    else -> con.resources.getColor(id)
+                }
+
+    }
 
 }
