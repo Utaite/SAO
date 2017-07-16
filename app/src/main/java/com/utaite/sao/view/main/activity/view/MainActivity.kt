@@ -20,7 +20,7 @@ class MainActivity : BaseActivity(), LazyKodeinAware {
 
     private val presenter: MainPresenter by instance()
 
-    var selectedItem = mutableListOf<MainItem>()
+    var selectedItem = MainItem()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

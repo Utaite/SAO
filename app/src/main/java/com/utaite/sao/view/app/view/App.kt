@@ -32,6 +32,8 @@ class App : Application(), LazyKodeinAware {
 
     val MAIN_TXT_BG_ALPHA = 170
 
+    val INFO_VIEW_ITEM_COUNT = 2
+
 
     @Suppress("DEPRECATION")
     fun getColor(con: Context, id: Int): Int =

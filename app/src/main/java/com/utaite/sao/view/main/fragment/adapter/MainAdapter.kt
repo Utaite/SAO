@@ -43,18 +43,12 @@ class MainAdapter(private val act: MainActivity,
     override fun onCreateViewHolder(parent: ViewGroup?, viewType: Int): ViewHolder =
             ViewHolder(LayoutInflater.from(act).inflate(viewType, parent, false), viewType).apply {
                 itemView.main_item_img?.setOnClickListener {
-                    act.selectedItem.clear()
-                    act.selectedItem.add(vo[adapterPosition] as MainItem)
-                    act.selectedItem.add(vo[adapterPosition] as MainItem)
-                    act.selectedItem.add(vo[adapterPosition] as MainItem)
+                    act.selectedItem = vo[adapterPosition] as MainItem
                     MainInfoFragment().show(act.supportFragmentManager, "")
                 }
 
                 itemView.main_item_txt?.setOnClickListener {
-                    act.selectedItem.clear()
-                    act.selectedItem.add(vo[adapterPosition] as MainItem)
-                    act.selectedItem.add(vo[adapterPosition] as MainItem)
-                    act.selectedItem.add(vo[adapterPosition] as MainItem)
+                    act.selectedItem = vo[adapterPosition] as MainItem
                     MainInfoFragment().show(act.supportFragmentManager, "")
                 }
 
